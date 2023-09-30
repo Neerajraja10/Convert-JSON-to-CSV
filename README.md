@@ -3,4 +3,4 @@ Application to convert a JSON object to CSV, load it into another bucket, and se
 Be sure to change the bucket name to your unique bucket name in the lambda function.
 Below is the architectural diagram.
 
-![JSON to CSV Image](https://github.com/jideoni/my-terraform-practice/assets/127896618/be7b9cd5-2322-49d0-a06a-f5b6dcb09657)
+![JSON to CSV Image]([https://github.com/jideoni/my-terraform-practice/assets/127896618/be7b9cd5-2322-49d0-a06a-f5b6dcb09657](https://github.com/Neerajraja10/Convert-JSON-to-CSV/blob/main/JSON-to-CSV.png)https://github.com/Neerajraja10/Convert-JSON-to-CSV/blob/main/JSON-to-CSV.png)
